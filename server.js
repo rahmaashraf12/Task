@@ -10,4 +10,4 @@ app.set('view engine', 'handlebars');
 app.set('views', "./templates");
  
   app.use('/students',studentRoutes);
-app.listen(5000);
+app.listen(3000);
